@@ -1,0 +1,7 @@
+C:\save_data\Dokumen\C#_project\PTxyz\PTxyz\bin\Debug\PTxyz.exe.config
+C:\save_data\Dokumen\C#_project\PTxyz\PTxyz\bin\Debug\PTxyz.exe
+C:\save_data\Dokumen\C#_project\PTxyz\PTxyz\bin\Debug\PTxyz.pdb
+C:\save_data\Dokumen\C#_project\PTxyz\PTxyz\obj\Debug\PTxyz.csproj.AssemblyReference.cache
+C:\save_data\Dokumen\C#_project\PTxyz\PTxyz\obj\Debug\PTxyz.csproj.CoreCompileInputs.cache
+C:\save_data\Dokumen\C#_project\PTxyz\PTxyz\obj\Debug\PTxyz.exe
+C:\save_data\Dokumen\C#_project\PTxyz\PTxyz\obj\Debug\PTxyz.pdb

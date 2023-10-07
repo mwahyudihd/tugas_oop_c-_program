@@ -1,0 +1,14 @@
+C:\save_data\Dokumen\C#_project\tugas_OOP\tugas_OOP\Lingkaran\bin\Debug\net7.0\Lingkaran.exe
+C:\save_data\Dokumen\C#_project\tugas_OOP\tugas_OOP\Lingkaran\bin\Debug\net7.0\Lingkaran.deps.json
+C:\save_data\Dokumen\C#_project\tugas_OOP\tugas_OOP\Lingkaran\bin\Debug\net7.0\Lingkaran.runtimeconfig.json
+C:\save_data\Dokumen\C#_project\tugas_OOP\tugas_OOP\Lingkaran\bin\Debug\net7.0\Lingkaran.dll
+C:\save_data\Dokumen\C#_project\tugas_OOP\tugas_OOP\Lingkaran\bin\Debug\net7.0\Lingkaran.pdb
+C:\save_data\Dokumen\C#_project\tugas_OOP\tugas_OOP\Lingkaran\obj\Debug\net7.0\Lingkaran.GeneratedMSBuildEditorConfig.editorconfig
+C:\save_data\Dokumen\C#_project\tugas_OOP\tugas_OOP\Lingkaran\obj\Debug\net7.0\Lingkaran.AssemblyInfoInputs.cache
+C:\save_data\Dokumen\C#_project\tugas_OOP\tugas_OOP\Lingkaran\obj\Debug\net7.0\Lingkaran.AssemblyInfo.cs
+C:\save_data\Dokumen\C#_project\tugas_OOP\tugas_OOP\Lingkaran\obj\Debug\net7.0\Lingkaran.csproj.CoreCompileInputs.cache
+C:\save_data\Dokumen\C#_project\tugas_OOP\tugas_OOP\Lingkaran\obj\Debug\net7.0\Lingkaran.dll
+C:\save_data\Dokumen\C#_project\tugas_OOP\tugas_OOP\Lingkaran\obj\Debug\net7.0\refint\Lingkaran.dll
+C:\save_data\Dokumen\C#_project\tugas_OOP\tugas_OOP\Lingkaran\obj\Debug\net7.0\Lingkaran.pdb
+C:\save_data\Dokumen\C#_project\tugas_OOP\tugas_OOP\Lingkaran\obj\Debug\net7.0\Lingkaran.genruntimeconfig.cache
+C:\save_data\Dokumen\C#_project\tugas_OOP\tugas_OOP\Lingkaran\obj\Debug\net7.0\ref\Lingkaran.dll

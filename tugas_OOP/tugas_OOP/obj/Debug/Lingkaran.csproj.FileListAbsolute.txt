@@ -1,0 +1,4 @@
+C:\save_data\Dokumen\C#_project\tugas_OOP\tugas_OOP\obj\Debug\Lingkaran.csproj.AssemblyReference.cache
+C:\save_data\Dokumen\C#_project\tugas_OOP\tugas_OOP\obj\Debug\Lingkaran.csproj.CoreCompileInputs.cache
+C:\save_data\Dokumen\C#_project\tugas_OOP\tugas_OOP\obj\Debug\tugas_OOP.exe
+C:\save_data\Dokumen\C#_project\tugas_OOP\tugas_OOP\obj\Debug\tugas_OOP.pdb
